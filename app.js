@@ -23,6 +23,14 @@ const state = {
 let timerID = null;
 
 const teacherDigest = "8c1f1046219ddd216a023f792356ddf127fce372a72ec9b4cdac989ee5b0b455";
+const preferredEnglishVoices = [
+  "Samantha", "Ava", "Siri", "Google US English", "Microsoft Aria", "Alex"
+];
+const noveltyVoiceNames = [
+  "Albert", "Bad News", "Bahh", "Bells", "Boing", "Bubbles", "Cellos",
+  "Deranged", "Good News", "Hysterical", "Pipe Organ", "Trinoids",
+  "Whisper", "Wobble", "Zarvox"
+];
 
 async function sha256(value) {
   const bytes = new TextEncoder().encode(value);
@@ -46,6 +54,19 @@ function stopSpeech() {
   });
 }
 
+function selectNaturalEnglishVoice() {
+  const voices = speechSynthesis.getVoices();
+  const englishVoices = voices.filter((voice) => /^en[-_]/i.test(voice.lang));
+  const safeVoices = englishVoices.filter((voice) =>
+    !noveltyVoiceNames.some((name) => voice.name.toLowerCase().includes(name.toLowerCase()))
+  );
+  for (const preferred of preferredEnglishVoices) {
+    const match = safeVoices.find((voice) => voice.name.toLowerCase().includes(preferred.toLowerCase()));
+    if (match) return match;
+  }
+  return safeVoices.find((voice) => /^en[-_]US$/i.test(voice.lang)) ?? safeVoices[0] ?? null;
+}
+
 function speakActivity(activity) {
   if (!("speechSynthesis" in window) || !("SpeechSynthesisUtterance" in window)) {
     window.alert("このブラウザでは音声を再生できません。別のブラウザでお試しください。");
@@ -59,7 +80,10 @@ function speakActivity(activity) {
   stopSpeech();
   const utterance = new SpeechSynthesisUtterance(activity.timeLabel);
   utterance.lang = "en-US";
-  utterance.rate = 0.78;
+  const voice = selectNaturalEnglishVoice();
+  if (voice) utterance.voice = voice;
+  utterance.rate = 0.95;
+  utterance.pitch = 1.05;
   utterance.volume = 1;
   state.activeSpeechID = id;
   const button = document.querySelector(`[data-speak="${CSS.escape(id)}"]`);

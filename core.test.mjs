@@ -51,3 +51,13 @@ test("builds teacher groups from fixed assignments", () => {
   assert.deepEqual(all, Array.from({ length: 40 }, (_, index) => index + 1));
   assert.ok(dataset.timeSets.every((set) => studentsInSet(dataset, set.id).length === 8));
 });
+
+test("web speech configuration excludes known novelty voices", async () => {
+  const source = await readFile(new URL("./app.js", import.meta.url), "utf8");
+  for (const name of ["Bad News", "Bells", "Cellos", "Whisper", "Zarvox"]) {
+    assert.match(source, new RegExp(`\\b${name}\\b`));
+  }
+  assert.match(source, /utterance\.rate = 0\.95/);
+  assert.match(source, /utterance\.pitch = 1\.05/);
+  assert.match(source, /utterance\.voice = voice/);
+});
