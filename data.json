@@ -1,0 +1,1338 @@
+[
+  {
+    "activities" : [
+      {
+        "displayName" : "Breakfast",
+        "id" : "breakfast",
+        "imageName" : "breakfast",
+        "timeLabel" : "Breakfast time"
+      },
+      {
+        "displayName" : "Homework",
+        "id" : "homework",
+        "imageName" : "homework",
+        "timeLabel" : "Homework time"
+      },
+      {
+        "displayName" : "Bed",
+        "id" : "bed",
+        "imageName" : "bed",
+        "timeLabel" : "Bed time"
+      }
+    ],
+    "assignments" : [
+      "A",
+      "E",
+      "C",
+      "D",
+      "B",
+      "C",
+      "E",
+      "A",
+      "B",
+      "D",
+      "E",
+      "B",
+      "D",
+      "C",
+      "A",
+      "D",
+      "C",
+      "A",
+      "B",
+      "E",
+      "E",
+      "A",
+      "C",
+      "D",
+      "B",
+      "E",
+      "A",
+      "D",
+      "B",
+      "C",
+      "A",
+      "B",
+      "E",
+      "D",
+      "C",
+      "D",
+      "A",
+      "E",
+      "C",
+      "B"
+    ],
+    "code" : "3814",
+    "timeSets" : [
+      {
+        "id" : "A",
+        "times" : [
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "4:00",
+            "displayText" : "4:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "9:00",
+            "displayText" : "9:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "B",
+        "times" : [
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "4:00",
+            "displayText" : "4:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "9:30",
+            "displayText" : "9:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "C",
+        "times" : [
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "4:30",
+            "displayText" : "4:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "9:00",
+            "displayText" : "9:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "D",
+        "times" : [
+          {
+            "clockText" : "7:30",
+            "displayText" : "7:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "4:00",
+            "displayText" : "4:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "9:00",
+            "displayText" : "9:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "E",
+        "times" : [
+          {
+            "clockText" : "7:30",
+            "displayText" : "7:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "4:30",
+            "displayText" : "4:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "9:30",
+            "displayText" : "9:30 PM",
+            "period" : "PM"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "activities" : [
+      {
+        "displayName" : "Wake up",
+        "id" : "wakeUp",
+        "imageName" : "wakeUp",
+        "timeLabel" : "Wake-up time"
+      },
+      {
+        "displayName" : "Go to school",
+        "id" : "goToSchool",
+        "imageName" : "goToSchool",
+        "timeLabel" : "Go to school"
+      },
+      {
+        "displayName" : "Dinner",
+        "id" : "dinner",
+        "imageName" : "dinner",
+        "timeLabel" : "Dinner time"
+      }
+    ],
+    "assignments" : [
+      "C",
+      "E",
+      "D",
+      "B",
+      "A",
+      "B",
+      "D",
+      "C",
+      "E",
+      "A",
+      "B",
+      "C",
+      "E",
+      "A",
+      "D",
+      "C",
+      "E",
+      "A",
+      "D",
+      "B",
+      "A",
+      "B",
+      "E",
+      "D",
+      "C",
+      "C",
+      "D",
+      "E",
+      "B",
+      "A",
+      "A",
+      "E",
+      "D",
+      "B",
+      "C",
+      "C",
+      "E",
+      "A",
+      "B",
+      "D"
+    ],
+    "code" : "5271",
+    "timeSets" : [
+      {
+        "id" : "A",
+        "times" : [
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "7:30",
+            "displayText" : "7:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "B",
+        "times" : [
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "7:30",
+            "displayText" : "7:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "C",
+        "times" : [
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "8:00",
+            "displayText" : "8:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "D",
+        "times" : [
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "7:30",
+            "displayText" : "7:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "E",
+        "times" : [
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "8:00",
+            "displayText" : "8:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 PM",
+            "period" : "PM"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "activities" : [
+      {
+        "displayName" : "Lunch",
+        "id" : "lunch",
+        "imageName" : "lunch",
+        "timeLabel" : "Lunch time"
+      },
+      {
+        "displayName" : "Bath",
+        "id" : "bath",
+        "imageName" : "bath",
+        "timeLabel" : "Bath time"
+      },
+      {
+        "displayName" : "Dream",
+        "id" : "dream",
+        "imageName" : "dream",
+        "timeLabel" : "Dream time"
+      }
+    ],
+    "assignments" : [
+      "B",
+      "E",
+      "D",
+      "A",
+      "C",
+      "B",
+      "E",
+      "D",
+      "A",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "E",
+      "E",
+      "C",
+      "D",
+      "B",
+      "A",
+      "D",
+      "C",
+      "A",
+      "B",
+      "E",
+      "C",
+      "A",
+      "D",
+      "B",
+      "E",
+      "A",
+      "C",
+      "B",
+      "E",
+      "D",
+      "A",
+      "E",
+      "B",
+      "C",
+      "D"
+    ],
+    "code" : "9042",
+    "timeSets" : [
+      {
+        "id" : "A",
+        "times" : [
+          {
+            "clockText" : "12:00",
+            "displayText" : "12:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "8:00",
+            "displayText" : "8:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "10:00",
+            "displayText" : "10:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "B",
+        "times" : [
+          {
+            "clockText" : "12:00",
+            "displayText" : "12:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "8:00",
+            "displayText" : "8:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "10:30",
+            "displayText" : "10:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "C",
+        "times" : [
+          {
+            "clockText" : "12:00",
+            "displayText" : "12:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "8:30",
+            "displayText" : "8:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "10:00",
+            "displayText" : "10:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "D",
+        "times" : [
+          {
+            "clockText" : "12:30",
+            "displayText" : "12:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "8:00",
+            "displayText" : "8:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "10:00",
+            "displayText" : "10:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "E",
+        "times" : [
+          {
+            "clockText" : "12:30",
+            "displayText" : "12:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "8:30",
+            "displayText" : "8:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "10:30",
+            "displayText" : "10:30 PM",
+            "period" : "PM"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "activities" : [
+      {
+        "displayName" : "Study",
+        "id" : "study",
+        "imageName" : "study",
+        "timeLabel" : "Study time"
+      },
+      {
+        "displayName" : "Snack",
+        "id" : "snack",
+        "imageName" : "snack",
+        "timeLabel" : "Snack time"
+      },
+      {
+        "displayName" : "Bed",
+        "id" : "bed",
+        "imageName" : "bed",
+        "timeLabel" : "Bed time"
+      }
+    ],
+    "assignments" : [
+      "D",
+      "C",
+      "B",
+      "A",
+      "E",
+      "C",
+      "A",
+      "B",
+      "E",
+      "D",
+      "E",
+      "B",
+      "C",
+      "A",
+      "D",
+      "C",
+      "B",
+      "E",
+      "A",
+      "D",
+      "C",
+      "A",
+      "D",
+      "B",
+      "E",
+      "E",
+      "B",
+      "C",
+      "D",
+      "A",
+      "C",
+      "D",
+      "E",
+      "B",
+      "A",
+      "A",
+      "E",
+      "B",
+      "C",
+      "D"
+    ],
+    "code" : "6843",
+    "timeSets" : [
+      {
+        "id" : "A",
+        "times" : [
+          {
+            "clockText" : "9:00",
+            "displayText" : "9:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "3:00",
+            "displayText" : "3:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "9:00",
+            "displayText" : "9:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "B",
+        "times" : [
+          {
+            "clockText" : "9:00",
+            "displayText" : "9:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "3:00",
+            "displayText" : "3:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "9:30",
+            "displayText" : "9:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "C",
+        "times" : [
+          {
+            "clockText" : "9:00",
+            "displayText" : "9:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "3:30",
+            "displayText" : "3:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "9:00",
+            "displayText" : "9:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "D",
+        "times" : [
+          {
+            "clockText" : "9:30",
+            "displayText" : "9:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "3:00",
+            "displayText" : "3:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "9:00",
+            "displayText" : "9:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "E",
+        "times" : [
+          {
+            "clockText" : "9:30",
+            "displayText" : "9:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "3:30",
+            "displayText" : "3:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "9:30",
+            "displayText" : "9:30 PM",
+            "period" : "PM"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "activities" : [
+      {
+        "displayName" : "Breakfast",
+        "id" : "breakfast",
+        "imageName" : "breakfast",
+        "timeLabel" : "Breakfast time"
+      },
+      {
+        "displayName" : "Study",
+        "id" : "study",
+        "imageName" : "study",
+        "timeLabel" : "Study time"
+      },
+      {
+        "displayName" : "Snack",
+        "id" : "snack",
+        "imageName" : "snack",
+        "timeLabel" : "Snack time"
+      }
+    ],
+    "assignments" : [
+      "C",
+      "A",
+      "D",
+      "E",
+      "B",
+      "E",
+      "B",
+      "A",
+      "C",
+      "D",
+      "C",
+      "B",
+      "A",
+      "D",
+      "E",
+      "C",
+      "D",
+      "A",
+      "B",
+      "E",
+      "E",
+      "C",
+      "B",
+      "A",
+      "D",
+      "A",
+      "C",
+      "B",
+      "D",
+      "E",
+      "D",
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "E",
+      "C",
+      "B",
+      "A"
+    ],
+    "code" : "7168",
+    "timeSets" : [
+      {
+        "id" : "A",
+        "times" : [
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:00",
+            "displayText" : "10:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "3:30",
+            "displayText" : "3:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "B",
+        "times" : [
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:00",
+            "displayText" : "10:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "4:00",
+            "displayText" : "4:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "C",
+        "times" : [
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:30",
+            "displayText" : "10:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "3:30",
+            "displayText" : "3:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "D",
+        "times" : [
+          {
+            "clockText" : "7:30",
+            "displayText" : "7:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:00",
+            "displayText" : "10:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "3:30",
+            "displayText" : "3:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "E",
+        "times" : [
+          {
+            "clockText" : "7:30",
+            "displayText" : "7:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:30",
+            "displayText" : "10:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "4:00",
+            "displayText" : "4:00 PM",
+            "period" : "PM"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "activities" : [
+      {
+        "displayName" : "Wake up",
+        "id" : "wakeUp",
+        "imageName" : "wakeUp",
+        "timeLabel" : "Wake-up time"
+      },
+      {
+        "displayName" : "Study",
+        "id" : "study",
+        "imageName" : "study",
+        "timeLabel" : "Study time"
+      },
+      {
+        "displayName" : "Lunch",
+        "id" : "lunch",
+        "imageName" : "lunch",
+        "timeLabel" : "Lunch time"
+      }
+    ],
+    "assignments" : [
+      "B",
+      "E",
+      "D",
+      "C",
+      "A",
+      "B",
+      "A",
+      "D",
+      "E",
+      "C",
+      "A",
+      "C",
+      "B",
+      "E",
+      "D",
+      "D",
+      "B",
+      "A",
+      "C",
+      "E",
+      "A",
+      "C",
+      "D",
+      "E",
+      "B",
+      "C",
+      "A",
+      "D",
+      "E",
+      "B",
+      "C",
+      "A",
+      "D",
+      "B",
+      "E",
+      "A",
+      "C",
+      "D",
+      "E",
+      "B"
+    ],
+    "code" : "2539",
+    "timeSets" : [
+      {
+        "id" : "A",
+        "times" : [
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "9:30",
+            "displayText" : "9:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "12:00",
+            "displayText" : "12:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "B",
+        "times" : [
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "9:30",
+            "displayText" : "9:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "12:30",
+            "displayText" : "12:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "C",
+        "times" : [
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:00",
+            "displayText" : "10:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "12:00",
+            "displayText" : "12:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "D",
+        "times" : [
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "9:30",
+            "displayText" : "9:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "12:00",
+            "displayText" : "12:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "E",
+        "times" : [
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:00",
+            "displayText" : "10:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "12:30",
+            "displayText" : "12:30 PM",
+            "period" : "PM"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "activities" : [
+      {
+        "displayName" : "Lunch",
+        "id" : "lunch",
+        "imageName" : "lunch",
+        "timeLabel" : "Lunch time"
+      },
+      {
+        "displayName" : "Snack",
+        "id" : "snack",
+        "imageName" : "snack",
+        "timeLabel" : "Snack time"
+      },
+      {
+        "displayName" : "Homework",
+        "id" : "homework",
+        "imageName" : "homework",
+        "timeLabel" : "Homework time"
+      }
+    ],
+    "assignments" : [
+      "D",
+      "B",
+      "E",
+      "A",
+      "C",
+      "B",
+      "D",
+      "A",
+      "C",
+      "E",
+      "C",
+      "B",
+      "A",
+      "E",
+      "D",
+      "C",
+      "B",
+      "A",
+      "D",
+      "E",
+      "E",
+      "B",
+      "A",
+      "C",
+      "D",
+      "D",
+      "A",
+      "E",
+      "B",
+      "C",
+      "C",
+      "D",
+      "B",
+      "E",
+      "A",
+      "B",
+      "E",
+      "D",
+      "A",
+      "C"
+    ],
+    "code" : "8605",
+    "timeSets" : [
+      {
+        "id" : "A",
+        "times" : [
+          {
+            "clockText" : "12:00",
+            "displayText" : "12:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "3:00",
+            "displayText" : "3:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "4:00",
+            "displayText" : "4:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "B",
+        "times" : [
+          {
+            "clockText" : "12:00",
+            "displayText" : "12:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "3:00",
+            "displayText" : "3:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "4:30",
+            "displayText" : "4:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "C",
+        "times" : [
+          {
+            "clockText" : "12:00",
+            "displayText" : "12:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "3:30",
+            "displayText" : "3:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "4:00",
+            "displayText" : "4:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "D",
+        "times" : [
+          {
+            "clockText" : "12:30",
+            "displayText" : "12:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "3:00",
+            "displayText" : "3:00 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "4:00",
+            "displayText" : "4:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "E",
+        "times" : [
+          {
+            "clockText" : "12:30",
+            "displayText" : "12:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "3:30",
+            "displayText" : "3:30 PM",
+            "period" : "PM"
+          },
+          {
+            "clockText" : "4:30",
+            "displayText" : "4:30 PM",
+            "period" : "PM"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "activities" : [
+      {
+        "displayName" : "Go to school",
+        "id" : "goToSchool",
+        "imageName" : "goToSchool",
+        "timeLabel" : "Go to school"
+      },
+      {
+        "displayName" : "Study",
+        "id" : "study",
+        "imageName" : "study",
+        "timeLabel" : "Study time"
+      },
+      {
+        "displayName" : "Dinner",
+        "id" : "dinner",
+        "imageName" : "dinner",
+        "timeLabel" : "Dinner time"
+      }
+    ],
+    "assignments" : [
+      "C",
+      "A",
+      "B",
+      "D",
+      "E",
+      "D",
+      "C",
+      "B",
+      "E",
+      "A",
+      "A",
+      "D",
+      "E",
+      "C",
+      "B",
+      "C",
+      "B",
+      "D",
+      "A",
+      "E",
+      "B",
+      "E",
+      "C",
+      "D",
+      "A",
+      "B",
+      "A",
+      "E",
+      "C",
+      "D",
+      "B",
+      "D",
+      "C",
+      "A",
+      "E",
+      "E",
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "code" : "4927",
+    "timeSets" : [
+      {
+        "id" : "A",
+        "times" : [
+          {
+            "clockText" : "7:30",
+            "displayText" : "7:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:00",
+            "displayText" : "10:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "B",
+        "times" : [
+          {
+            "clockText" : "7:30",
+            "displayText" : "7:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:00",
+            "displayText" : "10:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "C",
+        "times" : [
+          {
+            "clockText" : "7:30",
+            "displayText" : "7:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:30",
+            "displayText" : "10:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "D",
+        "times" : [
+          {
+            "clockText" : "8:00",
+            "displayText" : "8:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:00",
+            "displayText" : "10:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "6:30",
+            "displayText" : "6:30 PM",
+            "period" : "PM"
+          }
+        ]
+      },
+      {
+        "id" : "E",
+        "times" : [
+          {
+            "clockText" : "8:00",
+            "displayText" : "8:00 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "10:30",
+            "displayText" : "10:30 AM",
+            "period" : "AM"
+          },
+          {
+            "clockText" : "7:00",
+            "displayText" : "7:00 PM",
+            "period" : "PM"
+          }
+        ]
+      }
+    ]
+  }
+]
